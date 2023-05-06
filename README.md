@@ -1,1 +1,4 @@
-# --IPC1-_S12023_Proyecto2.1_202201117
+# MiguelGalicia13-IPC1_S12023_Proyecto2_202201117
+Miguel Galicia
+202201117  
+IPC seccion C
